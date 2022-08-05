@@ -1,4 +1,4 @@
-# COMP2511 Project: Dungeon Mania
+# COMP---- Project: Dungeon -----
 
 ## Contents
 
@@ -72,12 +72,12 @@ This specification is broken into four parts:
 
 ## 2. Overview
 
-For many years, Penguin Pty Ltd (a small software business run by Atilla Brungs) has dominated the native application gaming market with hit games. However in recent years, advancements in web technologies mean that the new generation of consumers don't want to download and run a native application, but instead want to play games online. To adapt to the ever-changing market, Penguin Pty Ltd has decided to take users back to the 1980s and develop a new game called *Dungeon Mania*, but with a modern twist - designed as a web application.
+For many years, Penguin Pty Ltd (a small software business run by Atilla Brungs) has dominated the native application gaming market with hit games. However in recent years, advancements in web technologies mean that the new generation of consumers don't want to download and run a native application, but instead want to play games online. To adapt to the ever-changing market, Penguin Pty Ltd has decided to take users back to the 1980s and develop a new game called *Dungeon -----*, but with a modern twist - designed as a web application.
 
 Penguin Pty Ltd has sub-contracted two software firms:
 
 * BlueBottle Pty Ltd to develop a web-based frontend to the game
-* YourTeam Pty Ltd (a team of talented misfits completing COMP2511 in 22T2), who will build the backend Java application.
+* YourTeam Pty Ltd (a team of talented misfits completing --------- in 22T2), who will build the backend Java application.
 
 Furthermore, there is a rival company called Spheniscidae Pty Ltd which has already produced a solution which you can refer to as a possible sample solution. 
 
@@ -85,7 +85,7 @@ Furthermore, there is a rival company called Spheniscidae Pty Ltd which has alre
 
 ## 3. Rules of the Game
 
-In Dungeon Mania you control a Player and have to complete various goals within a series of dungeons to complete the game!
+In Dungeon ------ you control a Player and have to complete various goals within a series of dungeons to complete the game!
 
 The simplest form of such a puzzle is a maze, where the Player must find their way from the starting point to the exit.
 
@@ -1705,7 +1705,7 @@ When you demonstrate this Milestone in your lab time, it will consist of a 20 mi
 
 ### 15.3 Extenuating Circumstances
 
-Since there are no extensions for the project, in cases where there are extenuating circumstances that are either approved by Special Consideration, or where a student has an Equitable Learning Plan, we will apply leniency in marking the student's entire group. This will occur during marking and in tandem with any other adjustments of individual marks by the tutor and Course Authority. In all cases please email cs2511@cse.unsw.edu.au. 
+Since there are no extensions for the project, in cases where there are extenuating circumstances that are either approved by Special Consideration, or where a student has an Equitable Learning Plan, we will apply leniency in marking the student's entire group. This will occur during marking and in tandem with any other adjustments of individual marks by the tutor and Course Authority. In all cases please email ------@cse.unsw.edu.au. 
 
 ## 16. Other Expectations
 
@@ -1767,7 +1767,7 @@ The use of code synthesis tools, such as GitHub Copilot, is not permitted on thi
 
 Relevant scholarship authorities will be informed if students holding scholarships are involved in an incident of plagiarism or other misconduct.
 
-Do not provide or show your project work to any other person, except for your group and the teaching staff of COMP2511. If you knowingly provide or show your assignment work to another person for any reason, and work derived from it is submitted you may be penalised, even if the work was submitted without your knowledge or consent. This may apply even if your work is submitted by a third party unknown to you.
+Do not provide or show your project work to any other person, except for your group and the teaching staff of ------. If you knowingly provide or show your assignment work to another person for any reason, and work derived from it is submitted you may be penalised, even if the work was submitted without your knowledge or consent. This may apply even if your work is submitted by a third party unknown to you.
 
 Note, you will not be penalised if your work has the potential to be taken without your consent or knowledge.
 
