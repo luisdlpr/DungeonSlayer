@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "type" : "player",
+      "x" : 1,
+      "y" : -3
+    }, {
+      "type" : "bomb",
+      "x" : 1,
+      "y" : -2
+    }, {
+      "type" : "switch",
+      "x" : 1,
+      "y" : 0
+    }, {
+      "type" : "boulder",
+      "x" : 1,
+      "y" : -1
+    }, {
+      "type": "exit",
+      "x": 8,
+      "y": 8
+    }, {
+      "type" : "wall",
+      "x" : 2,
+      "y" : 2
+    }, {
+      "type" : "wall",
+      "x" : 1,
+      "y" : 2
+    },{
+      "type" : "wall",
+      "x" : 0,
+      "y" : 2
+    },{
+      "type" : "wall",
+      "x" : -1,
+      "y" : 2
+    },{
+      "type" : "wall",
+      "x" : -2,
+      "y" : 2
+    },{
+      "type" : "wall",
+      "x" : 2,
+      "y" : 1
+    },{
+      "type" : "wall",
+      "x" : 1,
+      "y" : 2
+    },{
+      "type" : "wall",
+      "x" : 0,
+      "y" : 1
+    },{
+      "type" : "wall",
+      "x" : -1,
+      "y" : 1
+    },{
+      "type" : "wall",
+      "x" : -2,
+      "y" : 1
+    },{
+      "type" : "wall",
+      "x" : 2,
+      "y" : 0
+    },{
+      "type" : "wall",
+      "x" : -1,
+      "y" : 0
+    },{
+      "type" : "wall",
+      "x" : -2,
+      "y" : 0
+    },{
+      "type" : "wall",
+      "x" : 2,
+      "y" : -1
+    },{
+      "type" : "wall",
+      "x" : 0,
+      "y" : -1
+    },{
+      "type" : "wall",
+      "x" : -1,
+      "y" : -1
+    },{
+      "type" : "wall",
+      "x" : -2,
+      "y" : -1
+    },{
+      "type" : "wall",
+      "x" : 2,
+      "y" : -2
+    },{
+      "type" : "wall",
+      "x" : 0,
+      "y" : -2
+    },{
+      "type" : "wall",
+      "x" : -1,
+      "y" : -2
+    },{
+      "type" : "wall",
+      "x" : -2,
+      "y" : -2
+    }
+    
+  ],
+  "goal-condition": {"goal": "exit"}
+}

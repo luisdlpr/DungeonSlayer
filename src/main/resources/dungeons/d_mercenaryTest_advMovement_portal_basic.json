@@ -1,0 +1,69 @@
+{
+    "entities": [
+        {
+            "x": 7,
+            "y": 5,
+            "type": "mercenary"
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "type": "player"
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "type": "portal",
+            "colour": "BLUE"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "type": "portal",
+            "colour": "BLUE"
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 2
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 3
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 4 
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 5
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 6
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 7
+        },
+        {
+            "type": "wall",
+            "x": 5,
+            "y": 8
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "exit"
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}

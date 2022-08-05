@@ -1,0 +1,85 @@
+{
+  "entities": [
+        {
+            "type" : "player",
+            "x" : 4,
+            "y" : 4
+        },{
+            "type" : "wall",
+            "x" : 4,
+            "y" : 3
+        },{
+            "type" : "wall",
+            "x" : 3,
+            "y" : 3
+        },{
+            "type" : "wall",
+            "x" : 5,
+            "y" : 3
+        },{
+            "type" : "wall",
+            "x" : 3,
+            "y" : 2
+        },{
+            "type" : "wall",
+            "x" : 5,
+            "y" : 2
+        },{
+            "type" : "wall",
+            "x" : 3,
+            "y" : 1
+        },{
+            "type" : "wall",
+            "x" : 5,
+            "y" : 1
+        },{
+            "type" : "wall",
+            "x" : 4,
+            "y" : 1
+        },{
+            "type" : "assassin",
+            "x" : 4,
+            "y" : 2
+        },{
+            "type": "arrow",
+            "x": 4,
+            "y": 5
+        },
+        {
+            "type": "arrow",
+            "x": 4,
+            "y": 6
+        },
+        {
+            "type": "key",
+            "x": 4,
+            "y": 7,
+            "key" : 2
+        },
+        {
+            "type": "sun_stone",
+            "x": 4,
+            "y": 8
+        },{
+            "type": "sword",
+            "x": 5,
+            "y": 4
+        },
+        {
+            "type": "arrow",
+            "x": 6,
+            "y": 4
+        },
+        {
+            "type": "treasure",
+            "x": 7,
+            "y": 4
+        },
+        {
+            "type": "sun_stone",
+            "x": 8,
+            "y": 4
+        }
+    ],
+  "goal-condition": {"goal": "exit"}
+}

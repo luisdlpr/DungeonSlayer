@@ -1,0 +1,15 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 0,
+            "y" : 0
+        },
+        {
+            "type": "spider",
+            "x": 0,
+            "y": 2
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

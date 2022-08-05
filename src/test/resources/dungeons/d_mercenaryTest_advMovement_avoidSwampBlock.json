@@ -1,0 +1,75 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 7,
+            "y" : 5
+        },
+        {
+            "type" : "mercenary",
+            "x" : 9,
+            "y" : 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 4,
+            "y": 3,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 5,
+            "y": 3,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 4,
+            "y": 4,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 5,
+            "y": 4,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 4,
+            "y": 5,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 5,
+            "y": 5,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 4,
+            "y": 6,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 5,
+            "y": 6,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 4,
+            "y": 7,
+            "movement_factor": 5
+        },
+        {
+            "type": "swamp_tile",
+            "x": 5,
+            "y": 7,
+            "movement_factor": 5
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}
