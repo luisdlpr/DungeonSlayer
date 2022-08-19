@@ -39,8 +39,11 @@ See design.pdf for an in depth overview of the backend structure and class model
 - Open Repository Folder on VSCode or similar IDE and navigate to and open the controller file DungeonSlayer/src/main/java/dungeonmania/DungeonManiaController.java
 - in VSCODE or similar IDE run Java
 <img width="1016" alt="runController" src="https://user-images.githubusercontent.com/102662773/185533794-e882ebf5-5a37-452d-a6ed-56122755eff2.png">
+
 - select App.java
+
 - The application should open on a new tab on your default web browser
+
 - the "advanced" dungeon and "simple" configuration are recommended as a good place to start -> custom maps and configs can be added to DungeonSlayer/src/main/resources
 
 ## Credits
